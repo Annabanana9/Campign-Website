@@ -1,0 +1,98 @@
+h1 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Courgette', cursive;
+}
+
+h4 {
+    font-family: 'Courgette', cursive;
+    font-size: 29px;
+}
+
+.item1 {
+    border: solid black 5px;
+    color: black;
+    background-color: white;
+    padding: 20px;
+}
+
+.sample1 {
+    display: flex;
+    justify-content: space-between;
+    border: 5px;
+    padding: 10px;
+}
+
+.donate button {
+    width: 340px;
+    height: 50px;
+    font-size: 20px;
+    background: grey;
+    color: white;
+    border-radius: 5px;
+    border: solid black 3px;
+}
+
+.entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 70px;
+    font-family: 'Bad Script', cursive;
+}
+
+.donate button:hover {
+    background: #319944;
+    color: black;
+}
+
+.donate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px ;
+}
+
+header {
+    background-image: url("https://i.kym-cdn.com/entries/icons/mobile/000/025/999/Screen_Shot_2018-04-24_at_1.33.44_PM.jpg");
+}
+
+.item1 {
+    text-align: center;
+}
+
+.yoshi {
+    display: flex;
+    Justify-content: flex-end;
+    text-align: center;
+}
+
+.chapters {
+    font-size: 40px;
+}
+
+.yoshi {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Bad Script', cursive;
+
+}
+
+body {
+    background-image: url("https://2.bp.blogspot.com/-cdv-Dxy474A/UWMjoBq_vuI/AAAAAAAAFIs/Z4QycYcrkUg/s1600/green-background-pattern-with-warped-vertical-stripes.jpg ");
+}
